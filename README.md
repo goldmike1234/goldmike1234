@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>  
 <h3 align="center">I'm currently studying at UAveiro</h3>  
   
 
